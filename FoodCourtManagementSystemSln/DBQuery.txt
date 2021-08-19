@@ -1,0 +1,25 @@
+select Username,[Password] from [Admin]
+select * from [Admin]
+select Email from UserInfo where UserName='a';
+select [Password] from UserInfo where Email='ab@gmail.com'
+select * from UserInfo
+select Phone from UserInfo where UserName='a';
+select Email from UserInfo where UserName='a';
+select Area from UserInfo where UserName='a';
+select [Address] from UserInfo where UserName='a';
+update UserInfo set UserName='A' where Email='ab@gmail.com';
+select * from  Breakfast 
+select FoodID,[FoodName/FoodID],Price from Breakfast
+select FoodID,[FoodName/FoodID] from Breakfast
+select * from OrderList 
+select UserName,FoodType,FoodID,Cost from OrderList
+select FoodType,FoodID,Cost from OrderList  where UserName='a'
+delete from OrderList where UserName = 'a'
+select * from Lunch 
+select * from Shawarma 
+select * from Pasta 
+select * from Pizza 
+select * from Burger 
+select * from Dessert 
+select * from Soup 
+select * from Dinner 
