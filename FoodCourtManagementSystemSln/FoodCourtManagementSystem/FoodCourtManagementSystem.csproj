@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2718E92-B944-4AA2-B938-4CDB6DDA59BD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FoodCourtManagementSystem</RootNamespace>
+    <AssemblyName>FoodCourtManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountIdentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountIdentification.Designer.cs">
+      <DependentUpon>AccountIdentification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adminpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminpage.Designer.cs">
+      <DependentUpon>Adminpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPassChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPassChange.Designer.cs">
+      <DependentUpon>AdminPassChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Breakfast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Breakfast.Designer.cs">
+      <DependentUpon>Breakfast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Burger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Burger.Designer.cs">
+      <DependentUpon>Burger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cocktail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cocktail.Designer.cs">
+      <DependentUpon>Cocktail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coffee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coffee.Designer.cs">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dessert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dessert.Designer.cs">
+      <DependentUpon>Dessert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dinner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dinner.Designer.cs">
+      <DependentUpon>Dinner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lunch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lunch.Designer.cs">
+      <DependentUpon>Lunch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyOrders.Designer.cs">
+      <DependentUpon>MyOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyProfile.Designer.cs">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderList.Designer.cs">
+      <DependentUpon>OrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pasta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pasta.Designer.cs">
+      <DependentUpon>Pasta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pizza.Designer.cs">
+      <DependentUpon>Pizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registraion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registraion.Designer.cs">
+      <DependentUpon>Registraion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shawarma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shawarma.Designer.cs">
+      <DependentUpon>Shawarma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProfile.Designer.cs">
+      <DependentUpon>UpdateProfile.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountIdentification.resx">
+      <DependentUpon>AccountIdentification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminpage.resx">
+      <DependentUpon>Adminpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPassChange.resx">
+      <DependentUpon>AdminPassChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Breakfast.resx">
+      <DependentUpon>Breakfast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Burger.resx">
+      <DependentUpon>Burger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cocktail.resx">
+      <DependentUpon>Cocktail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coffee.resx">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dessert.resx">
+      <DependentUpon>Dessert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dinner.resx">
+      <DependentUpon>Dinner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lunch.resx">
+      <DependentUpon>Lunch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyOrders.resx">
+      <DependentUpon>MyOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyProfile.resx">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderList.resx">
+      <DependentUpon>OrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pasta.resx">
+      <DependentUpon>Pasta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pizza.resx">
+      <DependentUpon>Pizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registraion.resx">
+      <DependentUpon>Registraion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shawarma.resx">
+      <DependentUpon>Shawarma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProfile.resx">
+      <DependentUpon>UpdateProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myorders2.jpg" />
+    <None Include="Resources\myorders.jpg" />
+    <None Include="Resources\delivery.jpg" />
+    <None Include="Resources\tandori.jpg" />
+    <None Include="Resources\ricebowl.jpg" />
+    <None Include="Resources\friedrice.jpg" />
+    <None Include="Resources\breakfast2.jpg" />
+    <None Include="Resources\chickensoup2.jpg" />
+    <None Include="Resources\chickensoup.jpg" />
+    <None Include="Resources\halim.jpg" />
+    <None Include="Resources\tomatosoup.jpg" />
+    <None Include="Resources\vegetablesoup.jpg" />
+    <None Include="Resources\soup.jpg" />
+    <None Include="Resources\jorda.jpg" />
+    <None Include="Resources\phirni.jpg" />
+    <None Include="Resources\cupcake.jpg" />
+    <None Include="Resources\pudding.jpg" />
+    <None Include="Resources\chickenburger2.jpg" />
+    <None Include="Resources\chickenBurger1.jpg" />
+    <None Include="Resources\beefburger2.jpg" />
+    <None Include="Resources\beefburger1.jpg" />
+    <None Include="Resources\crispychickenBurger.jpg" />
+    <None Include="Resources\chickenPizza.jpg" />
+    <None Include="Resources\chickenBrustPizza.jpg" />
+    <None Include="Resources\beefPizza.jpg" />
+    <None Include="Resources\pepperoniPizza.jpg" />
+    <None Include="Resources\cheesepasta.jpg" />
+    <None Include="Resources\bacon.jpg" />
+    <None Include="Resources\beconpasta.jpg" />
+    <None Include="Resources\creamycajunchickenpasta.jpg" />
+    <None Include="Resources\chickenmashroompasta.jpg" />
+    <None Include="Resources\creamychickenpasta.jpg" />
+    <None Include="Resources\mixedsharma.jpg" />
+    <None Include="Resources\vegetableshawma.jpg" />
+    <None Include="Resources\beefsharma.jpg" />
+    <None Include="Resources\chickenshawma.jpg" />
+    <None Include="Resources\tehari.jpg" />
+    <None Include="Resources\khicuri2.jpg" />
+    <None Include="Resources\morogpolao.jpg" />
+    <None Include="Resources\khichuri.jpg" />
+    <None Include="Resources\kachchi.jpg" />
+    <None Include="Resources\breakfastburritos.jpg" />
+    <None Include="Resources\breakfast_enchiladas_6.jpg" />
+    <None Include="Resources\breakfastQuasa.jpg" />
+    <None Include="Resources\ravarotti.jpg" />
+    <None Include="Resources\sliders.jpg" />
+    <None Include="Resources\dinner1.jpg" />
+    <None Include="Resources\cocktail1.jpg" />
+    <None Include="Resources\coffee1.jpg" />
+    <None Include="Resources\dessert1.jpg" />
+    <None Include="Resources\burger1.jpg" />
+    <None Include="Resources\pizza1.jpg" />
+    <None Include="Resources\pasta1.jpg" />
+    <None Include="Resources\shawarman1.jpg" />
+    <None Include="Resources\lunch1.jpg" />
+    <None Include="Resources\breakfast1.jpg" />
+    <None Include="Resources\update1.jpg" />
+    <None Include="Resources\updateprofile1.jpg" />
+    <None Include="Resources\updateprofile.jpg" />
+    <None Include="Resources\registration2.jpg" />
+    <None Include="Resources\registration.jpg" />
+    <None Include="Resources\myprofile.jpg" />
+    <None Include="Resources\homepage4.jpg" />
+    <None Include="Resources\homepage3.jpg" />
+    <None Include="Resources\breakfast.jpg" />
+    <None Include="Resources\homepage2.jpg" />
+    <None Include="Resources\homebackground.jpg" />
+    <None Include="Resources\DSC_0051-03.jpeg" />
+    <None Include="logo-admin-png-4.png" />
+    <Content Include="Resources\70959524_408972776427683_7394833154176974848_n.jpg" />
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
