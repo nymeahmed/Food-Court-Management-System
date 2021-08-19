@@ -1,0 +1,93 @@
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe.config
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.pdb
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Form1.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.exe
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.pdb
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Registraion.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AccountIdentification.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Homepage.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Admin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Adminpage.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AddAdmin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AdminPassChange.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.MyProfile.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.UpdateProfile.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.OrderList.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Breakfast.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Lunch.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Shawarma.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Pasta.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Pizza.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Burger.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Dessert.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Cocktail.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Dinner.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Payment.resources
+C:\Users\User\Desktop\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.MyOrders.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe.config
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.pdb
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AccountIdentification.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AddAdmin.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Admin.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Adminpage.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AdminPassChange.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Breakfast.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Burger.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Cocktail.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Payment.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Dessert.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Dinner.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Form1.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Homepage.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Lunch.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.MyOrders.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.MyProfile.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.OrderList.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Pasta.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Pizza.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Registraion.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Shawarma.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.UpdateProfile.resources
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.exe
+E:\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.pdb
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe.config
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.pdb
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AccountIdentification.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AddAdmin.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Admin.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Adminpage.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.AdminPassChange.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Breakfast.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Burger.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Cocktail.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Payment.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Dessert.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Dinner.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Form1.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Homepage.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Lunch.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.MyOrders.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.MyProfile.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.OrderList.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Pasta.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Pizza.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Registraion.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Shawarma.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.UpdateProfile.resources
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.exe
+E:\BSc CSE\7th seme\C#- Kazi Sadia ma'am\Project\FoodCourtManagementSystemSln\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.pdb
