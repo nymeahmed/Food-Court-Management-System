@@ -3,8 +3,7 @@ Import FoodCourtManagementSystem.bacpac file in Microsoft SQL Server Managemment
 Change the databse connections in codes according to your own computer sql server connection.
 Open FoodCourtManagementSystemSln.sln Visual Studio 
 
-User Name: nymeahmed  || Password: 12345
-Admin Username: admin || Admin Password: admin
+User Name: nymeahmed; Password: 12345; Admin Username: admin; Admin Password: admin
 
 My software version:
 Visual Studio = 2019
