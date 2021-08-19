@@ -5,6 +5,8 @@ Change the databse connections in codes according to your own computer sql serve
 
 Open FoodCourtManagementSystemSln.sln in Visual Studio 
 
+FoodCourtManagementSystem.pptx is the overall view of the project.
+
 User Name: nymeahmed; Password: 12345; Admin Username: admin; Admin Password: admin
 
 My softwares version:
